@@ -18,9 +18,3 @@
   https://www.instagram.com/leo_vdov/
 
   https://www.linkedin.com/in/vieiraleo    
-
-👀 - Curriculo Vittae: 
-
- https://drive.google.com/file/d/1P03-gemawHV_qrQOgmnxbs1L6mljOl7g/view?usp=sharing
-
-
