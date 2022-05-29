@@ -1,10 +1,10 @@
-## 👋 Eae, tranquilo? 
+## 👋 Hey what is up?
  
- Eu sou o Leo, prazer em te conhece. 
+Hi, i’m Leo, nice to meet you.
 
-:telescope: - Estudo Engenharia Eletrônica na UFSC (Universidade Federal de Santa Catarina) e sou apaixonado por programação. Me inseri nesse mundo por meio da área de Processamento Digital de Sinais e cada vez mais gosto de Desenvolvimento de software.
+:telescope: - I study Electronic Engineering at UFSC (Federal University of Santa Catarina) and I'm passionate about programming. I entered in this world through the area of Digital Signal Processing and now i am working as a Blockchain Engineer. My goal is to become a reference in the Blockchain area.
 
-:rocket: - Linguagens com as quais ja trabalhei:
+:rocket: - Languages I've worked with:
 
 - JavaScript
 - HTML e CSS
@@ -12,8 +12,9 @@
 - Python
 - Matlab
 - Assembly
+- Rust
 
-📫 - Vamos trocar uma ideia? 
+📫 - Contact:
      
   https://www.instagram.com/leo_vdov/
 
