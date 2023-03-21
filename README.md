@@ -6,13 +6,15 @@ Hi, i’m Leo, nice to meet you.
 
 :rocket: - Languages I've worked with:
 
+- Rust
+- Solidity
 - JavaScript
 - HTML e CSS
 - C
 - Python
 - Matlab
 - Assembly
-- Rust
+
 
 📫 - Contact:
      
