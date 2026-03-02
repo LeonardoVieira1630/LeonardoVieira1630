@@ -38,6 +38,9 @@ Won a NEAR hackathon.
 
 ---
 
+🎓 My undergraduate thesis applied convex optimization to cryptocurrency portfolio allocation — where my engineering background meets my interest in financial systems. https://github.com/LeonardoVieira1630/tcc/blob/main/backtestV3.ipynb
+
+---
 ## 📫 Let's connect
 
 [LinkedIn](https://www.linkedin.com/in/vieiraleo) · [Instagram](https://www.instagram.com/leo_vdov/)
