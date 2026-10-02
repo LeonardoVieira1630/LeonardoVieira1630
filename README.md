@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Leo
 
-Backend engineer with 6+ years building financial systems and protocol infrastructure.
+Backend engineer with 7+ years building financial systems and protocol infrastructure.
 I work primarily with **TypeScript/Node.js** and **Rust**, and I'm particularly drawn to
 problems that demand both engineering precision and financial intuition.
 
